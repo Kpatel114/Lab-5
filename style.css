@@ -1,7 +1,7 @@
 body {
-		background-image: url("images/space.jpg");
+		background-image: url("Images/space.jpg");
 
-		background-attachment: fixed;
+		background-repeat: repeat;
 		}
   h1 {
 		font-family: 'Verdana';
