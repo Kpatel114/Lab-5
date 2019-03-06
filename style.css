@@ -41,16 +41,13 @@ body {
 
 		font-size: 25px;
 }
-  table.center {
-	  
-	width:80%
+  table, th, td {
+	 	 border: 3px solid blue;
 }
   images {
 		width:400px;
 
 		height:400px;
-
-		padding:100px;
 
 		border:100px;
 }
